@@ -7,5 +7,5 @@ Layer0
 	//---- Texture ----
 	g_flBrightnessExposureBias "0.000"
 	g_flRenderOnlyExposureBias "0.000"
-	SkyTexture "materials/mud_road_2k.exr"
+	SkyTexture "materials/mud_road_skybox.exr"
 }
